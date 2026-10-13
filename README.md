@@ -1,6 +1,6 @@
 # Tab Organizer for ExpressionEngine 7
 
-Visually organize publish layout fields into rows, right on the channel layout edit screen. Drag to reorder, drag the edge to resize, and add named dividers to break up long tabs.
+Visually organize publish layout fields into rows, right on the channel layout edit screen. Drag to reorder, drag the edge to resize, and add named dividers to break up long tabs. Works well alongside [Field Grouper](https://github.com/PontusMadsen/reizoko-field-grouper) and [Field Cloner](https://github.com/PontusMadsen/reizoko-field-cloner).
 
 ## Features
 
@@ -43,6 +43,12 @@ While reorganize mode is on, EE's own Save buttons are disabled so you can't sav
 - Dividers are display-only. They hold no value and are not available in templates
 - Dragging a field to a different tab still uses EE's regular layout list; reorganize mode works within a tab
 - Back up (or export) your layouts before applying changes to a production site
+
+## Documentation
+
+[reizoko.jp/en/addons/tab-organizer.html](https://www.reizoko.jp/en/addons/tab-organizer.html)
+
+More add-ons: [reizoko.jp](https://www.reizoko.jp/en/addons.html)
 
 ## License
 
