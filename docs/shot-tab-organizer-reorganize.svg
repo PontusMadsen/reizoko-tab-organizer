@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <!-- Mockup of the layout editor in reorganize mode: fields as cards at their real widths, a divider, and the footer buttons -->
+  <rect width="1200" height="720" fill="#f5f5f8"/>
+  <rect width="220" height="720" fill="#0f0f17"/>
+  <circle cx="34" cy="34" r="12" fill="#5d63f1"/>
+  <text x="56" y="39" fill="#fff" font-size="15" font-weight="600">Client Site</text>
+  <g fill="#8e8ea3" font-size="13">
+    <text x="24" y="92">Entries</text>
+    <text x="24" y="126">Files</text>
+    <text x="24" y="160">Members</text>
+    <text x="24" y="194">Categories</text>
+  </g>
+  <rect x="12" y="216" width="196" height="30" rx="5" fill="#26263a"/>
+  <text x="24" y="236" fill="#ffffff" font-size="13">Add-ons</text>
+  <g fill="#8e8ea3" font-size="13">
+    <text x="24" y="280">Settings</text>
+  </g>
+  <rect x="220" width="980" height="56" fill="#ffffff"/>
+  <line x1="220" y1="56" x2="1200" y2="56" stroke="#e4e4ec"/>
+  <text x="252" y="35" font-size="16" font-weight="650" fill="#17171c">Edit Publish Layout</text>
+  <rect x="252" y="80" width="916" height="560" rx="6" fill="#ffffff" stroke="#e4e4ec"/>
+  <text x="276" y="112" font-size="12" fill="#8b8b98">Drag cards to reorder. Drag the right edge to resize. Cards that fit share a line.</text>
+  <text x="276" y="146" font-size="13" fill="#5d63f1" font-weight="600">Publish</text>
+  <rect x="276" y="156" width="52" height="2" fill="#5d63f1"/>
+  <text x="355.8" y="146" font-size="13" fill="#6b6b80">Content</text>
+  <text x="435.6" y="146" font-size="13" fill="#6b6b80">Content SE</text>
+  <text x="537.6" y="146" font-size="13" fill="#6b6b80">Content DE</text>
+  <text x="639.6" y="146" font-size="13" fill="#6b6b80">Date</text>
+  <text x="697.2" y="146" font-size="13" fill="#6b6b80">Categories</text>
+  <text x="799.2" y="146" font-size="13" fill="#6b6b80">Options</text>
+  <line x1="276" y1="158" x2="1144" y2="158" stroke="#e4e4ec"/>
+  <line x1="276" y1="158" x2="328" y2="158" stroke="#5d63f1" stroke-width="2"/>
+  <rect x="276" y="178" width="575" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="292" cy="203" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="209" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="215" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="203" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="209" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="215" r="1.6" fill="#8e8ea3"/>
+  <text x="312" y="205" font-size="13" font-weight="600" fill="#17171c">Title</text>
+  <text x="312" y="224" font-size="11" fill="#8b8b98">(title)</text>
+  <text x="807" y="198" font-size="12" fill="#6b6b80">66%</text>
+  <rect x="843" y="179" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="863" y="178" width="281" height="62" rx="6" fill="#fbfbfe" stroke="#5d63f1"/>
+  <circle cx="879" cy="203" r="1.6" fill="#8e8ea3"/><circle cx="879" cy="209" r="1.6" fill="#8e8ea3"/><circle cx="879" cy="215" r="1.6" fill="#8e8ea3"/><circle cx="885" cy="203" r="1.6" fill="#8e8ea3"/><circle cx="885" cy="209" r="1.6" fill="#8e8ea3"/><circle cx="885" cy="215" r="1.6" fill="#8e8ea3"/>
+  <text x="899" y="205" font-size="13" font-weight="600" fill="#17171c">URL title</text>
+  <text x="899" y="224" font-size="11" fill="#8b8b98">(url_title)</text>
+  <text x="1100" y="198" font-size="12" fill="#6b6b80">33%</text>
+  <rect x="1136" y="179" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.8"/>
+  <rect x="276" y="252" width="868" height="40" rx="6" fill="none" stroke="#c9cbe0" stroke-dasharray="5 4"/>
+  <circle cx="292" cy="266" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="272" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="278" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="266" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="272" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="278" r="1.6" fill="#8e8ea3"/>
+  <text x="312" y="277" font-size="13" font-weight="600" fill="#17171c">Contact details</text>
+  <line x1="312" y1="283" x2="1096" y2="283" stroke="#dfe0ef"/>
+  <text x="1114" y="278" font-size="18" fill="#8e8ea3">&#215;</text>
+  <rect x="276" y="304" width="208" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="292" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="341" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="341" r="1.6" fill="#8e8ea3"/>
+  <text x="312" y="331" font-size="13" font-weight="600" fill="#17171c">Phone</text>
+  <text x="312" y="350" font-size="11" fill="#8b8b98">(phone)</text>
+  <text x="440" y="324" font-size="12" fill="#6b6b80">25%</text>
+  <rect x="476" y="305" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="496" y="304" width="428" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="512" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="512" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="512" cy="341" r="1.6" fill="#8e8ea3"/><circle cx="518" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="518" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="518" cy="341" r="1.6" fill="#8e8ea3"/>
+  <text x="532" y="331" font-size="13" font-weight="600" fill="#17171c">Email</text>
+  <text x="532" y="350" font-size="11" fill="#8b8b98">(email)</text>
+  <text x="880" y="324" font-size="12" fill="#6b6b80">50%</text>
+  <rect x="916" y="305" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="936" y="304" width="208" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="952" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="952" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="952" cy="341" r="1.6" fill="#8e8ea3"/><circle cx="958" cy="329" r="1.6" fill="#8e8ea3"/><circle cx="958" cy="335" r="1.6" fill="#8e8ea3"/><circle cx="958" cy="341" r="1.6" fill="#8e8ea3"/>
+  <text x="972" y="331" font-size="13" font-weight="600" fill="#17171c">Postcode</text>
+  <text x="972" y="350" font-size="11" fill="#8b8b98">(postcode)</text>
+  <text x="1100" y="324" font-size="12" fill="#6b6b80">25%</text>
+  <rect x="1136" y="305" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="276" y="378" width="428" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="292" cy="403" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="409" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="415" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="403" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="409" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="415" r="1.6" fill="#8e8ea3"/>
+  <text x="312" y="405" font-size="13" font-weight="600" fill="#17171c">Intro</text>
+  <text x="312" y="424" font-size="11" fill="#8b8b98">(intro)</text>
+  <text x="660" y="398" font-size="12" fill="#6b6b80">50%</text>
+  <rect x="696" y="379" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="716" y="378" width="428" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="732" cy="403" r="1.6" fill="#8e8ea3"/><circle cx="732" cy="409" r="1.6" fill="#8e8ea3"/><circle cx="732" cy="415" r="1.6" fill="#8e8ea3"/><circle cx="738" cy="403" r="1.6" fill="#8e8ea3"/><circle cx="738" cy="409" r="1.6" fill="#8e8ea3"/><circle cx="738" cy="415" r="1.6" fill="#8e8ea3"/>
+  <text x="752" y="405" font-size="13" font-weight="600" fill="#17171c">Hero image</text>
+  <text x="752" y="424" font-size="11" fill="#8b8b98">(hero_image)</text>
+  <text x="1100" y="398" font-size="12" fill="#6b6b80">50%</text>
+  <rect x="1136" y="379" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <rect x="276" y="452" width="868" height="62" rx="6" fill="#fbfbfe" stroke="#dfe0ef"/>
+  <circle cx="292" cy="477" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="483" r="1.6" fill="#8e8ea3"/><circle cx="292" cy="489" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="477" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="483" r="1.6" fill="#8e8ea3"/><circle cx="298" cy="489" r="1.6" fill="#8e8ea3"/>
+  <text x="312" y="479" font-size="13" font-weight="600" fill="#17171c">Body</text>
+  <text x="312" y="498" font-size="11" fill="#8b8b98">(body)</text>
+  <text x="1100" y="472" font-size="12" fill="#6b6b80">100%</text>
+  <rect x="1136" y="453" width="7" height="60" rx="3" fill="#5d63f1" opacity="0.25"/>
+  <line x1="252" y1="560" x2="1168" y2="560" stroke="#e4e4ec"/>
+  <rect x="582" y="582" width="156" height="36" rx="5" fill="#ffffff" stroke="#d9d9e3"/>
+  <text x="660.0" y="605" font-size="13" font-weight="600" fill="#44445a" text-anchor="middle">Cancel reorganize</text>
+  <rect x="750" y="582" width="116" height="36" rx="5" fill="#ffffff" stroke="#d9d9e3"/>
+  <text x="808.0" y="605" font-size="13" font-weight="600" fill="#44445a" text-anchor="middle">Add divider</text>
+  <rect x="878" y="582" width="148" height="36" rx="5" fill="#5d63f1" stroke="none"/>
+  <text x="952.0" y="605" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Save organizing</text>
+  <rect x="1038" y="582" width="76" height="36" rx="5" fill="#a9acf7" stroke="none"/>
+  <text x="1076.0" y="605" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Save</text>
+  <rect x="1114" y="582" width="30" height="36" rx="5" fill="#a9acf7"/>
+  <path d="M1123 598 l6 6 6 -6" fill="none" stroke="#ffffff" stroke-width="1.8"/>
+</svg>

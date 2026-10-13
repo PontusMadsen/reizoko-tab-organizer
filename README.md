@@ -2,6 +2,10 @@
 
 Visually organize publish layout fields into rows, right on the channel layout edit screen. Drag to reorder, drag the edge to resize, and add named dividers to break up long tabs. Works well alongside [Field Grouper](https://github.com/PontusMadsen/reizoko-field-grouper) and [Field Cloner](https://github.com/PontusMadsen/reizoko-field-cloner).
 
+![Reorganize mode in the layout editor](docs/shot-tab-organizer-reorganize.svg)
+
+![The resulting entry form](docs/shot-tab-organizer-entry.svg)
+
 ## Features
 
 - **Reorganize mode** on the layout edit screen: every tab becomes a canvas where fields sit at their real width, so what you see is what the entry form will look like
